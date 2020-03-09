@@ -10,8 +10,8 @@ while guess != to_be_guessed:
         elif guess < to_be_guessed:
             print("Number is smaller than the original number")
     else:
-             print("Sorry You Lost")
-             break
+                       print("Sorry You Lost")
+                       break
 
 else:
         print("Congratulation you won ")
